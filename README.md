@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAvinashUtekar%2Fstrapi-v4-firebase-auth&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+
+
 # Read blog for explanation
 [https://medium.com/@avinash.utekar08/integrating-firebase-auth-into-strapi-v4-f6a3955d7141](https://medium.com/@avinash.utekar08/integrating-firebase-auth-into-strapi-v4-f6a3955d7141)
 
@@ -12,4 +15,4 @@ If you encounter any issues, one possible solution is to compare the overridden 
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
